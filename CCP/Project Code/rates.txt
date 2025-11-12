@@ -1,0 +1,152 @@
+USD,US Dollar,1.0
+AED,UAE Dirham,3.67
+AFN,Afghanistan Afghani,65.65
+ALL,Albania Lek,81.01
+AMD,Armenian Dram,381.0
+AOA,Angolan Kwanza,911.97
+ARS,Argentine Peso,1443.02
+AUD,Australian Dollar,1.52
+AWG,Aruban Guilder,1.79
+AZN,Azerbaijan Manat,1.69
+BAM,Bosnia Mark,1.68
+BBD,Barbados Dollar,2.0
+BDT,Bangladesh Taka,121.75
+BGN,Bulgarian Lev,1.68
+BHD,Bahraini Dinar,0.37
+BIF,Burundi Franc,2936.79
+BMD,Bermuda Dollar,1.0
+BND,Brunei Dollar,1.30
+BOB,Bolivia Boliviano,6.86
+BRL,Brazilian Real,5.38
+BSD,Bahamian Dollar,1.0
+BTN,Bhutan Ngultrum,88.69
+BWP,Botswana Pula,14.14
+BYN,Belarusian Ruble,2.98
+BZD,Belize Dollar,2.0
+CAD,Canadian Dollar,1.39
+CDF,Congolese Franc,2292.26
+CHF,Swiss Franc,0.86
+CLP,Chilean Peso,941.98
+CNY,Chinese Renminbi,7.11
+COP,Colombian Peso,3874.35
+CRC,Costa Rica Colon,499.12
+CUP,Cuban Peso,24.0
+CVE,Cape Verde Escudo,95.23
+CZK,Czech Koruna,21.03
+DJF,Djibouti Franc,177.0
+DKK,Danish Krone,6.45
+DOP,Dominican Peso,64.01
+DZD,Algerian Dinar,129.91
+EGP,Egyptian Pound,47.17
+ERN,Eritrea Nakfa,15.0
+ETB,Ethiopian Birr,149.99
+EUR,Euro,0.86
+FJD,Fiji Dollar,2.27
+FKP,Falkland Islands Pound,0.76
+GBP,British Pound,0.76
+GEL,Georgian Lari,2.72
+GHS,Ghana Cedi,10.85
+GIP,Gibraltar Pound,0.76
+GMD,Gambian Dalasi,72.78
+GNF,Guinean Franc,8500.00
+GTQ,Guatemalan Quetzal,7.75
+GYD,Guyana Dollar,208.12
+HKD,Hong Kong Dollar,7.77
+HNL,Honduran Lempira,24.54
+HTG,Haitian Gourde,130.01
+HUF,Hungarian Forint,336.09
+IDR,Indonesian Rupiah,16000.00
+ILS,Israeli New Sheqel,3.25
+INR,Indian Rupee,88.76
+IQD,Iraqi Dinar,1300.00
+IRR,Iranian Rial,42000.00
+ISK,Iceland Krona,144.80
+JMD,Jamaican Dollar,155.00
+JOD,Jordanian Dinar,0.70
+JPY,Japanese Yen,154.04
+KES,Kenyan Shilling,105.00
+KGS,Kyrgyzstani Som,88.50
+KHR,Cambodian Riel,4027.00
+KMF,Comoros Franc,424.91
+KPW,North Korean Won,900.00
+KRW,South Korean Won,1429.22
+KWD,Kuwaiti Dinar,0.30
+KYD,Cayman Is. Dollar,0.82
+KZT,Kazakhstani Tenge,460.00
+LAK,Lao Kip,20000.00
+LBP,Lebanese Pound,89000.00
+LKR,Sri Lankan Rupee,300.00
+LRD,Liberian Dollar,190.00
+LSL,Lesotho Loti,17.30
+LYD,Libyan Dinar,4.80
+MAD,Moroccan Dirham,9.90
+MDL,Moldovan Leu,17.50
+MGA,Malagasy Ariary,4500.00
+MKD,Macedonian Denar,53.00
+MMK,Myanmar Kyat,2100.00
+MNT,Mongolian Tugrik,3400.00
+MOP,Macao Pataca,8.00
+MRU,Mauritanian Ouguiya,39.00
+MUR,Mauritius Rupee,46.00
+MVR,Maldivian Rufiyaa,15.40
+MWK,Malawi Kwacha,1700.00
+MXN,Mexican Peso,18.57
+MYR,Malaysian Ringgit,4.70
+MZN,Mozambique Metical,63.00
+NAD,Namibian Dollar,17.30
+NGN,Nigerian Naira,1200.00
+NIO,Nicaragua Cordoba,36.00
+NOK,Norwegian Krone,10.12
+NPR,Nepalese Rupee,132.00
+NZD,New Zealand Dollar,1.74
+OMR,Omani Rial,0.38
+PAB,Panamanian Balboa,1.0
+PEN,Peruvian Sol,3.70
+PGK,Papua New Guinea Kina,3.80
+PHP,Philippine Peso,58.00
+PKR,Pakistani Rupee,280.90
+PLN,Polish Zloty,3.68
+PYG,Paraguayan Guarani,7500.00
+QAR,Qatari Rial,3.64
+RON,Romanian Leu,4.25
+RSD,Serbian Dinar,95.00
+RUB,Russian Ruble,80.80
+RWF,Rwandan Franc,1300.00
+SAR,Saudi Riyal,3.75
+SBD,Solomon Is. Dollar,8.00
+SCR,Seychelles Rupee,13.00
+SDG,Sudanese Pound,600.00
+SEK,Swedish Krona,9.49
+SGD,Singapore Dollar,1.30
+SHP,Saint Helena Pound,0.76
+SLE,Sierra Leone Leone,22.00
+SOS,Somali Shilling,570.00
+SRD,Suriname Dollar,35.00
+SSP,South Sudanese Pound,130.00
+STN,Sao Tome Dobra,22.00
+SYP,Syrian Pound,13000.00
+SZL,Lilangeni,17.30
+THB,Thai Baht,32.33
+TJS,Tajikistani Somoni,10.80
+TMT,Turkmen Manat,3.50
+TND,Tunisian Dinar,3.10
+TOP,Tongan Pa'anga,2.30
+TRY,Turkish Lira,41.95
+TTD,Trinidad-Tobago Dollar,6.70
+TWD,New Taiwan Dollar,31.00
+TZS,Tanzanian Shilling,2600.00
+UAH,Ukrainian Hryvnia,37.00
+UGX,Ugandan Shilling,3700.00
+UYU,Uruguayan Peso,38.00
+UZS,Uzbekistan Som,12000.00
+VES,Venezuelan Bolivar,36.00
+VND,Vietnamese Dong,25000.00
+VUV,Vanuatu Vatu,120.00
+WST,Samoan Tala,2.70
+XAF,CFA Franc BEAC,566.55
+XCD,E.C. Dollar,2.70
+XOF,CFA Franc BCEAO,566.55
+XPF,CFP Franc,103.06
+YER,Yemeni Rial,250.00
+ZAR,South African Rand,17.30
+ZMW,Zambian Kwacha,25.00
