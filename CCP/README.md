@@ -15,19 +15,17 @@
 
 This repository contains all 5 required components for the project submission, organized into the following folders:
 
-### 1. [Proposal](./Project%20Proposal/)
+### 1. [Project Proposal](./Project%20Proposal/)
 * Contains the initial project proposal document.
 
-### 2. [Report](./report/)
-* Contains the final 15+ page project report (`.pdf`) which includes the abstract, introduction, flowchart, code snippets, and conclusion.
+### 2. [Project Report](./Project%20Report/)
+* Contains the final 15+ page project report (`.pdf`).
 
-### 3. [Presentation](./presentation/)
-* Contains the slide deck (`.pdf`) used for the video presentation.
+### 3. [Presentation](./Presentation/)
+* Contains the slides deck (`.pdf`).
 
-### 4. [Video](./video/)
-* Contains a file with the link to the 15-minute unlisted YouTube video presentation.
+### 4. [Video](./Video/)
+* Contains a file with the link to the 15-minute YouTube video.
 
-### 5. [Project Code](./project%20code/)
-* Contains the complete, runnable C code (`currency_converter.c`).
-* Contains the data file (`rates.txt`).
-* Contains a separate `README.md` with instructions on how to compile and run the program.
+### 5. [Project Code](./Project%20Code/)
+* Contains the runnable C code (`currency_converter.c`), data file (`rates.txt`), and a `README.md` with compile instructions.
