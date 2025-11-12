@@ -9,7 +9,6 @@ A robust, scalable, and efficient console application for currency conversion, w
 
 ### ▶️ Project Video Presentation
 
-*(Paste your YouTube video link here after you upload it)*
 
 ---
 
@@ -59,17 +58,4 @@ This program is built on a professional principle: **separation of logic from da
 
 This project isn't just a simple script. Here are the most important C concepts that make it scalable and robust.
 
-### 1. The Data Structure (`struct`)
 
-We use a `struct` to organize all the data for a single currency. This is much cleaner than using separate arrays for codes, names, and rates.
-
-```c
-// This is our blueprint
-struct Currency {
-    char code[10];
-    char name[50];
-    double rate_to_usd;
-};
-
-// We create an array of 200 of these structs in main()
-struct Currency currencies[200];
