@@ -1,61 +1,33 @@
-# C-Language Currency Converter
+# Complex Computing Problem (CCP) - Submission
 
-A robust, scalable, and efficient console application for currency conversion, written in C. This project was developed by **Team ZenCoders** for the Programming Fundamentals (PF-CT-175) course at NED University.
+**Project:** C-Language Currency Converter
+**Course:** PF (CT-175)
+**Team:** ZenCoders
+* Muhammad Tayyab Khan (CT-25088)
+* Muhammad Ayaan (CT-24288)
+* Vishal Kumar (CT-25081)
 
-* **Group Members:** Muhammad Tayyab Khan (CT-25088), Muhammad Ayaan (CT-24288), Vishal Kumar (CT-25081)
-* **Submitted to:** Sir Abdullah
+**Submitted to:** Sir Abdullah
 
 ---
 
-### ▶️ Project Video Presentation
+## Submission Folders
 
+This repository contains all 5 required components for the project submission, organized into the following folders:
 
----
+### 1. [Proposal](./proposal/)
+* Contains the initial project proposal document.
 
-## 🌟 Core Features
+### 2. [Report](./report/)
+* Contains the final 15+ page project report (`.pdf`) which includes the abstract, introduction, flowchart, code snippets, and conclusion.
 
-This program is built on a professional principle: **separation of logic from data**. The C code (`.c`) handles the logic, while all the currency data (`.txt`) is stored externally. This means you can update/add/remove currencies without ever recompiling the program.
+### 3. [Presentation](./presentation/)
+* Contains the slide deck (`.pdf`) used for the video presentation.
 
-* **Data-Driven:** Reads over 200+ currencies from an external `rates.txt` file on startup.
-* **Efficient "Base-USD" Logic:** All conversions are routed through a base currency (USD). This eliminates the need for 32,000+ conversion pairs and simplifies the math to one single, reusable formula.
-* **Robust Input Handling:**
-    * **File Check:** Gracefully handles a missing `rates.txt` file with a user-friendly error instead of crashing.
-    * **`scanf` Bug Fix:** Includes a fix for the common `scanf` infinite loop bug, allowing it to reject non-numeric input (like 'abc') safely.
-* **Simple Menu Interface:** A clean, menu-driven console with three options:
-    1.  Convert a Currency
-    2.  List all Available Currencies
-    3.  Exit
-* **Case-Insensitive:** Automatically converts user input (like 'pkr' or 'eur') to uppercase ('PKR', 'EUR') for easy matching.
+### 4. [Video](./video/)
+* Contains a file with the link to the 15-minute unlisted YouTube video presentation.
 
-## 🛠️ How to Compile & Run
-
-### Prerequisites
-
-* A C compiler (like **GCC** or **Clang**)
-* The `currency_converter.c` file
-* The `rates.txt` file (must be in the same folder)
-
-### Instructions
-
-1.  **Open your terminal** or command prompt.
-2.  **Navigate** to the folder containing both files.
-3.  **Compile** the program using `gcc`:
-    ```bash
-    # This command compiles the C code and creates an executable file named "converter"
-    gcc currency_converter.c -o converter
-    ```
-4.  **Run** the compiled program:
-    * **On Windows:**
-        ```bash
-        .\converter.exe
-        ```
-    * **On macOS / Linux:**
-        ```bash
-        ./converter
-        ```
-
-## ⚙️ Code Highlights
-
-This project isn't just a simple script. Here are the most important C concepts that make it scalable and robust.
-
-
+### 5. [Project Code](./project%20code/)
+* Contains the complete, runnable C code (`currency_converter.c`).
+* Contains the data file (`rates.txt`).
+* Contains a separate `README.md` with instructions on how to compile and run the program.
