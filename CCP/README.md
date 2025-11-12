@@ -15,7 +15,7 @@
 
 This repository contains all 5 required components for the project submission, organized into the following folders:
 
-### 1. [Proposal](./proposal/)
+### 1. [Proposal](./Project%20Proposal/)
 * Contains the initial project proposal document.
 
 ### 2. [Report](./report/)
